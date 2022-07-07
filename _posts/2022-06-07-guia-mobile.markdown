@@ -9,24 +9,24 @@ categories: mobile
 
 ## Inicio de sesión
 
-![imagen de mainscreen](/images/mainscreen.png)
+![imagen de mainscreen](/images/Mobile/mainscreen.png)
 
 ### Registración
 
 Puedes registrarte tanto con tu cuenta de Google (desde la pantalla de login) o haciendo un usuario nuevo en la aplicación
 
-![imagen de registración](/images/registration.png)
+![imagen de registración](/images/Mobile/registration.png)
 
 ### Login
 
 Para loggearse tienes que ingresar con usuario y clave previamente registrado
 o con tu cuenta de google
 
-![imagen de página de login](/images/login.png)
+![imagen de página de login](/images/Mobile/login.png)
 
 ## Menu
 
-![imagen barra inferior](/images/menu.png)
+![imagen barra inferior](/images/Mobile/menu.png)
 
 En el menu en la parte inferior de la pantalla se observan 3 botones
 que te llevarán a 3 páginas de la aplicación: *Home*, que es en la que estarás
@@ -41,14 +41,14 @@ y las canciones que subes en el caso que seas un **Artista**.
 En el reproductor se podrán reproducir las canciones que se hayan seleccionado. Se pueden seleccionar desde una playlist,
 desde un album, desde el buscador, etc.
 
-![](/images/reproductor.png)
+![](/images/Mobile/reproductor.png)
 
 
 ## Página principal
 
 En la página principal hay varias opciones.
 
-![imagen de página principal](/images/pantalla%20principal.png)
+![imagen de página principal](/images/Mobile/pantalla%20principal.png)
 
 
 ### Contenido
@@ -59,7 +59,7 @@ y hasta comentarlas.
 
 ## Página de búsqueda
 
-![imagen de página de búsqueda](/images/search%20page.png)
+![imagen de página de búsqueda](/images/Mobile/search%20page.png)
 
 ### Contenido
 
@@ -72,7 +72,7 @@ Y por último podrás elegir si buscar por contenido solamente gratuito o todo t
 
 ## Mi Libreria
 
-![imagen de mi libreria](/images/mi%20libreria.png)
+![imagen de mi libreria](/images/Mobile/mi%20libreria.png)
 
 ### Contenido
 
@@ -85,10 +85,10 @@ También se pueden comentar los **albums** haciendo click en el icono junto a é
 ## Perfil
 
 Haciendo click, en cualquier de las 3 pantallas principales,
-en el icono del perfil ![](/images/icono%20perfil.png) Podrás 
+en el icono del perfil ![](/images/Mobile/icono%20perfil.png) Podrás 
 ir a la página de tu perfil.
 
-![](/images/perfil.png)
+![](/images/Mobile/perfil.png)
 
 ### Contenido propio
 
@@ -97,13 +97,13 @@ dentro de la plataforma y tu plan (**_Free_** o _**Premium**_).
 Además, como **Artista** podrás crear albums propios y a partir
 de estos podrás crear tus canciones.
 
-![](/images/nuevo%20album.png)
+![](/images/Mobile/nuevo%20album.png)
 
 - Title: Titulo del albúm
 - Tier: Free o Premium. La categoría que necesitan los escuchantes
 - Genre: Género del albúm (Despues cada canción tiene el suyo también)
 
-![](/images/crear%20cancion.png)
+![](/images/Mobile/crear%20cancion.png)
 
 - Title: Titulo de la canción
 - Description: Descripción de la canción
@@ -119,20 +119,20 @@ por lo que primero intenta crear uno antes de subir tu primer canción!
 Yendo a la esquina superior derecha podrás hacer click en el ícono de mensajes.
 Donde podrás ver los mensajes que recibiste, de quien los recibiste y los que has enviado.
 
-![](/images/mensajes.png)
+![](/images/Mobile/mensajes.png)
 
 ### Contenido ajeno
 
 Si estás en una página de perfil ajena, podrás ver la información de este usuario y cliqueando en el icono de _mensajes_
 podrás enviarle un mensaje.
 
-![](/images/enviar%20mensaje.png)
+![](/images/Mobile/enviar%20mensaje.png)
 
 ### Nueva playlist
 
 Yendo a la página de crear una nueva playlist encontrarás:
 
-![](/images/nueva%20playlist.png)
+![](/images/Mobile/nueva%20playlist.png)
 
 - Title: Titulo de la playlist
 - Description: Descripción de la playlist
@@ -140,7 +140,7 @@ Yendo a la página de crear una nueva playlist encontrarás:
 
 ## Album
 
-![](/images/album.png)
+![](/images/Mobile/album.png)
 
 En la vista de un album te podrás encontrar con su información, con la posibilidad de editarlo si sos el artista que 
 lo creó y podrás observar las canciones que posee.
@@ -148,7 +148,7 @@ lo creó y podrás observar las canciones que posee.
 
 ## Playlist
 
-![](/images/playlist.png)
+![](/images/Mobile/playlist.png)
 
 En la vista de un album te podrás encontrar con su información, con la posibilidad de editarlo si sos el artista que
 lo creó y podrás observar las canciones que posee.
@@ -162,4 +162,4 @@ agregarla a la playlist.
 
 Si recibes un mensaje, te llegará una notificación avisandote de ello.
 
-Se pueden dar me gusta a la canciones con el corazon que poseen a su costado ![](/images/corazon.png)
+Se pueden dar me gusta a la canciones con el corazon que poseen a su costado ![](/images/Mobile/corazon.png)

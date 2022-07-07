@@ -1,0 +1,125 @@
+---
+layout: post
+title: "Guia Spotifiuby web"
+date: 2022-07-07 11:18:00 -0000
+categories: web
+---
+
+# **Guia Spotifiuby Web**
+
+## Pestaña de navegación
+
+![imagen de pestaña de navegación](/images/Web/pesta%C3%B1a_navegador.png)
+
+## Login
+
+Para loggearse tienes que ingresar con usuario y clave con el rol de administrador, en el caso de no tener este rol no podras ingresar.
+
+![imagen de login](/images/Web/Login.png)
+
+## Página principal
+En la página principal podras encontrar dos secciones, el *NavBar* y *Métricas*
+
+
+### NavBar
+
+![imagen de navbar](/images/Web/navbar.png)
+
+En el menu en la parte superior de la pantalla se observan 4 botones
+que te llevarán a 4 secciones de la página: *Users*, que es donde veras un listado de los usuarios del sistema y su informacion entre otras cosas; *Content*, que es donde podras ver, al igual que los usuarios la lista de contenidos de la app (Songs, Albums, Playlist); *Services*, que es la sección en donde podrás ver el listado de servicios que ofrece la aplicación y información de los mismos y por último *LogOut* que lo que hace es desloguearte.
+
+- #### **Users**
+
+Cuando haces click en el botón ![imagen boton users](/images/Web/Users_button.png) te envia a una página con un listado de los usuarios del sistema, mostrandote información de los mismos como se puede observar en la siguiente imagen:
+
+![imagen de lista de usuarios](/images/Web/Users_view.png)
+
+Además de mostrar la información de cada usuario, esta lista contiene distintas funcionalidades:
+
+##### **Bloqueo y desbloqueo de usuarios**
+
+Como se puede observar el boton de ![imagen boton block](/images/Web/Block_button.png) sirve para bloquear al usuario en cuestión, una vez apretado cambiara el estado del usuario de *False* a *True* en la columna de *Blocked?* y se mostrara ahora el botón ![imagen boton unblock](/images/Web/Unblock_button.png) el cual tiene la misma funcionalidad que el block pero desbloqueando al usuario. Aquí se puede observar una vista de un usuario bloqueado y uno normal.
+
+![imagen estado de usuarios](/images/Web/Block_and_unblock_view.png)
+
+Para marcar una operación exitosa luego de bloquear o desbloquear un usuario se despliega el siguiente mensaje en la parte superior
+
+![imagen de successful operation](/images/Web/Successfull_operation.png)
+
+##### **View more**
+
+En la primer columna se puede observar el botón ![imagen boton view more](/images/Web/View_more_button.png) que al tocarlo va a saltar un popUp con información del usuario como se muestra en la siguiente imagen
+
+![imagen popUp user](/images/Web/PopUp_profile.png)
+
+- #### **Content**
+
+Cuando haces click en el botón ![imagen boton content](/images/Web/Content_button.png) te envia a una página en la cual vas a poder ver un listado del contenido que hay en el sistema separado por *Songs*, *Albums* y *Playlists*
+
+##### **Songs**
+
+Por el lado de las canciones se va a ver de la siguiente manera
+
+![imagen de lista de canciones](/images/Web/Songs_selected.png)
+
+en la que al igual que con los *users* esta la funcionalidad de bloqueo y desbloqueo de canciones asi como el botón de view more que te muestra la información de las canciones en un popUp
+
+![imagen de popUp de canciones](/images/Web/PopUp_song.png)
+
+##### **Albums**
+
+Por el lado de los albums se va a ver de la siguiente manera
+
+![imagen de lista de albums](/images/Web/Album_selected.png)
+
+en este no va a haber funcionalidad de bloqueo y desbloqueo de albums como los anteriormente comentados aunque si se puede observar el botón de view more que te muestra el siguiente popUp
+
+![imagen de popUp de albums](/images/Web/PopUp_album.png)
+
+##### **Playlists**
+
+Por el lado de las playlists se va a ver de la siguiente manera
+
+![imagen de lista de playlist](/images/Web/Playlist_selected.png)
+
+al igual que en los albums esta sección solamente va a tener el boton de view more como funcionalidad extra además de la información de cada playlist 
+
+![imagen de popUp de playlist](/images/Web/PopUp_playlist.png)
+
+- #### **Services**
+
+Si se preciona el botón ![imagen de boton de services](/images/Web/services_button.png) se puede observar la siguiente lista en la cual se detalla cada servicio de la aplicación contando las tecnologias utilizadas y el propósito de cada uno
+
+![imagen de lista de servicios](/images/Web/services_page.png)
+
+- #### **LogOut**
+
+Para finalizar esta el botón ![imagen de boton de logout](/images/Web/LogOut_button.png) el cual te desloguea y te envia nuevamente a la página de login.
+
+### Métricas
+
+Para la sección de métricas se van a poder observar dos tipos de gráficos para la visualización de las mismas:
+
+- #### **Bar Plots**
+
+![imagen de navbar](/images/Web/Metricas_bar.png)
+
+Este es un ejemplo de dos métricas visualizadas en esta sección
+
+- #### **Pie Chart**
+
+![imagen de navbar](/images/Web/Metricas_pie.png)
+
+Este es un ejemplo de una métrica visualizada en esta sección
+
+## Page does not exist
+
+En el caso de querer ingresar a una página no routeada te va a aparecer en la pantalla lo siguiente:
+
+![imagen de page does not exits](/images/Web/Page_does_not_exist.png)
+
+
+
+
+
+
