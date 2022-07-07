@@ -9,20 +9,22 @@ categories: mobile
 
 ## Inicio de sesión
 
-![imagen de mainscreen](images/mainscreen.png)
+<img src="{{site.url}}/images/mainscreen.png" alt="Que onda" />
+
+![imagen de mainscreen](../images/mainscreen.png)
 
 ### Registración
 
 Puedes registrarte tanto con tu cuenta de Google (desde la pantalla de login) o haciendo un usuario nuevo en la aplicación
 
-![imagen de registración](images/registration.png)
+![imagen de registración](../images/registration.png)
 
 ### Login
 
 Para loggearse tienes que ingresar con usuario y clave previamente registrado
 o con tu cuenta de google
 
-![imagen de página de login](images/login.png)
+![imagen de página de login](../images/login.png)
 
 ## Menu
 
@@ -33,13 +35,13 @@ canciones, albumes, artistas y otros usuarios; y por último *Mi Biblioteca*,
 que es la sección en donde podrás ver playlists de otras personas, tus playlists
 y las canciones que subes en el caso que seas un **Artista**.
 
-![imagen barra inferior](images/menu.png)
+![imagen barra inferior](../images/menu.png)
 
 ## Página principal
 
 En la página principal hay varias opciones.
 
-![imagen de página principal](images/pantalla%20principal.png)
+![imagen de página principal](../images/pantalla%20principal.png)
 
 
 ### Contenido
@@ -50,7 +52,7 @@ y hasta comentarlas.
 
 ## Página de búsqueda
 
-![imagen de página de búsqueda](images/search%20page.png)
+![imagen de página de búsqueda](../images/search%20page.png)
 
 ### Contenido
 
@@ -63,7 +65,7 @@ Y por último podrás elegir si buscar por contenido solamente gratuito o todo t
 
 ## Mi Libreria
 
-![imagen de mi libreria](images/mi%20libreria.png)
+![imagen de mi libreria](../images/mi%20libreria.png)
 
 ### Contenido
 
@@ -75,10 +77,10 @@ que hayas creado como **Artista**. Y desde aca, con el botón
 ## Perfil
 
 Haciendo click, en cualquier de las 3 pantallas principales,
-en el icono del perfil ![](images/icono%20perfil.png) Podrás 
+en el icono del perfil ![](../images/icono%20perfil.png) Podrás 
 ir a la página de tu perfil.
 
-![](images/perfil.png)
+![](../images/perfil.png)
 
 ### Contenido
 
@@ -87,13 +89,13 @@ dentro de la plataforma y tu plan (**_Free_** o _**Premium**_).
 Además, como **Artista** podrás crear albums propios y a partir
 de estos podrás crear tus canciones.
 
-![](images/nuevo%20album.png)
+![](../images/nuevo%20album.png)
 
 - Title: Titulo del albúm
 - Tier: Free o Premium. La categoría que necesitan los escuchantes
 - Genre: Género del albúm (Despues cada canción tiene el suyo también)
 
-![](images/crear%20cancion.png)
+![](../images/crear%20cancion.png)
 
 - Title: Titulo de la canción
 - Description: Descripción de la canción
