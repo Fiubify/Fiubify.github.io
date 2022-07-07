@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guia Spotifiuby mobile"
-date: 2022-07-07 18:00:00 -0000
+date: 2022-06-07 18:00:00 -0000
 categories: mobile
 ---
 
